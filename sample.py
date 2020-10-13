@@ -1,7 +1,6 @@
 def SayHello(name):
     print('Helloooo {}'.format(name))
-    print('edited letters')
-    print('another commit')
+    print('edited words here!')
 
 SayHello("Shubham")
 
