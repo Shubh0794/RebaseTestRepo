@@ -1,7 +1,13 @@
-def SayHello(name):
-    print('Helloooo {}'.format(name))
-    print('edited letters')
-    print('another commit')
+def fizzBuzz():
+    for i in range(1,100):
+        if i % 15 == 0:
+            print("FizzBuzz")
+        if i % 3 == 0:
+            print ("Fizz")
+        elif i % 5 == 0:
+            print ("Buzz")
+        else:
+            print (i)
 
-SayHello("Shubham")
 
+fizzBuzz()
