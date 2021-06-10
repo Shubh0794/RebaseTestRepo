@@ -21,3 +21,7 @@ def random_func_2():
 
 def remote_stash_check_two():
     print("Remote Stash Check #2")
+
+def origin_stash_check_three():
+    print("Origin stash check three")
+    
