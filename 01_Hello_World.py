@@ -29,7 +29,11 @@ def origin_stash_check_three():
 
 def remote_stash_check_three():
     print("Remote stash check #3")
-    
+
+
 def origin_stash_check_four():
     print("Origin stash check #4")
-    
+
+
+def remote_stash_check_four():
+    print("Remote stash check #4")
