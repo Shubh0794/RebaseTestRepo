@@ -32,7 +32,7 @@ def remote_stash_check_three():
 
 
 def origin_stash_check_four():
-    print("Origin stash check #4")
+    print(" ********* Origin stash check #4")
 
 
 def remote_stash_check_four():
