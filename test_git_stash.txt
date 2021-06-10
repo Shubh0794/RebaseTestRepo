@@ -1,0 +1,3 @@
+Hi, this is a temporary file to see how git stash works! 
+
+Pull this file as an incoming change from origin/master. 
